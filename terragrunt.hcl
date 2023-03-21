@@ -11,8 +11,6 @@ generate "provider" {
   contents = <<EOF
   provider "aws" {
     region  = "us-east-1"
-    access_key = "AKIAQK2LAPS5L523CT7T"
-    secret_key = "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"
   }
 EOF
 }
