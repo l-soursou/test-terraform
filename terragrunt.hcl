@@ -20,6 +20,6 @@ inputs = {
   ami           = "ami-059379b75c70345bb"
   instance_type = "t2.micro"
   tags = {
-    Name = "Terragrunt Tutorial: EC2"
+    Name = "Terragrunt OK"
   }
 }
